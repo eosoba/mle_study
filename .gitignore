@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+statefarm_data/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -77,6 +78,8 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+
+
 # IPython
 profile_default/
 ipython_config.py
@@ -127,3 +130,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/statefarm_data/
